@@ -143,7 +143,7 @@ require (
 	golang.org/x/text v0.42.0
 	google.golang.org/protobuf v1.36.12
 	gotest.tools v2.2.0+incompatible
-	k8s.io/apimachinery v0.37.0
+	k8s.io/apimachinery v0.37.1
 	k8s.io/utils v0.0.0-20260707023825-cf1189d6abe3
 	zombiezen.com/go/sqlite v1.4.2
 )
@@ -418,7 +418,7 @@ require (
 	google.golang.org/genproto v0.0.0-20260908043556-f8649ddbbfe6 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260921155816-b14227669459 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260921155816-b14227669459
-	k8s.io/client-go v0.37.0 // indirect
+	k8s.io/client-go v0.37.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20260821135717-be32def86098 // indirect
 	sigs.k8s.io/json v0.0.0-20260909141634-11ed52e25bc5 // indirect
 	sigs.k8s.io/yaml v1.6.0 // indirect
